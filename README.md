@@ -9,6 +9,8 @@ Browse characters from the Rick and Morty series using the [Rick and Morty API](
 - SSR, responsive design, image loading states
 
 ## More Info
+
+- 🔗 [Demo Project](https://rick-and-morty-character-browser.netlify.app/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
