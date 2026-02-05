@@ -20,4 +20,4 @@ Browse characters from the Rick and Morty series using the [Rick and Morty API](
 
 - 💥 Role: Front-End
 
-- 📲 How to reach me: With My [INSTAGRAM](https://www.instagram.com/mehrsa_mohajeri_developer) And [LINKEDIN](https://www.linkedin.com/in/mehrsa-mohajeri-developer)
+- 📲 How to reach me: With My [Website](https://mehrsamohajeri.com/) And [LINKEDIN](https://www.linkedin.com/in/mehrsamohajeri)
