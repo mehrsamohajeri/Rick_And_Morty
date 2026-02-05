@@ -8,7 +8,7 @@ Browse characters from the Rick and Morty series using the [Rick and Morty API](
 - Character detail page (episodes, location)
 - SSR, responsive design, image loading states
 
-<img width="2928" height="2244" alt="Image" src="https://github.com/user-attachments/assets/013f8a11-e2b8-4c67-8304-a8c3aebb7493" />
+<img width="2939" height="2156" alt="Image" src="https://github.com/user-attachments/assets/570955cd-7ef3-47e3-a5a0-c57836d49016" />
 
 <img width="2928" height="2244" alt="Image" src="https://github.com/user-attachments/assets/013f8a11-e2b8-4c67-8304-a8c3aebb7493" />
 
