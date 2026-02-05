@@ -8,6 +8,10 @@ Browse characters from the Rick and Morty series using the [Rick and Morty API](
 - Character detail page (episodes, location)
 - SSR, responsive design, image loading states
 
+<img width="2928" height="2244" alt="Image" src="https://github.com/user-attachments/assets/013f8a11-e2b8-4c67-8304-a8c3aebb7493" />
+
+<img width="2928" height="2244" alt="Image" src="https://github.com/user-attachments/assets/013f8a11-e2b8-4c67-8304-a8c3aebb7493" />
+
 ## More Info
 
 - 🔗 [Demo Project](https://rick-and-morty-character-browser.netlify.app/)
