@@ -9,8 +9,6 @@ Browse characters from the Rick and Morty series using the [Rick and Morty API](
 - SSR, responsive design, image loading states
 
 ## More Info
-
-- 🔗 [Demo Project]()
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
